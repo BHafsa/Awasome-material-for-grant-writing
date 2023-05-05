@@ -1,6 +1,6 @@
 # Awasome-material-for-grant-writing
 
-Writing funding proposals is a powerful skill that should be aquired soon after the end of doctoral studies (sometimes even before) to survive in academia. However, the process is often frustrating at teh beginning and sometimes ambigious. The current repo gathers materials that I found useful while researching the topic. It contains links to tutorials suggested by universities, useful books, annual events, blogs and more about writing proposals that get funded. 
+Writing funding proposals is a powerful skill that should be aquired soon after the end of doctoral studies (sometimes even before) to survive in academia. However, the process is often frustrating at the beginning and sometimes ambigious. The current repo gathers materials that I found useful while researching the topic. It contains links to tutorials suggested by universities, useful books, annual events, blogs and more about writing proposals that will raise the chances of getting your proposal accepted. 
 
 
 
