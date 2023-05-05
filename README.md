@@ -9,7 +9,7 @@ Writing funding proposals is a powerful skill that should be aquired soon after 
 - [GUIDE FOR WRITING A FUNDING PROPOSAL](http://www.learnerassociates.net/proposal/)
 
 ## Examples for different disciplines
-
+Coming soon!
 
 ## Books
 - [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241)
