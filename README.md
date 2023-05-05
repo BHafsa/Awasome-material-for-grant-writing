@@ -4,9 +4,11 @@ Writing funding proposals is a powerful skill that should be aquired soon after 
 
 
 
-## Step-by-step guide with examples
+## Step-by-step guide
 - [Grant Proposals (or Give me the money!)](https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/)
 - [GUIDE FOR WRITING A FUNDING PROPOSAL](http://www.learnerassociates.net/proposal/)
+
+## Examples for different disciplines
 
 
 ## Books
