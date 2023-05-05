@@ -10,11 +10,14 @@ Writing funding proposals is a powerful skill that should be aquired soon after 
 
 
 ## Books
+- [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241)
 
 ## Annual events
+Coming soon!
 
 ## More matrial
+Coming soon!
 
 
-**Do you know any other useful links? Extend the project and help sharing knowledge!**
+**Do you know any other useful links? Extend the list and help to share them with the community!**
 
